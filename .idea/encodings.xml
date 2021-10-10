@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/utils/vcl3datlantis/dataloaders/misc/valid_samples_dr_dataset_test.pkl" charset="UTF-16BE" />
+    <file url="file://$PROJECT_DIR$/src/utils/vcl3datlantis/dataloaders/misc/valid_samples_dr_dataset_test.pkl" charset="UTF-16BE" />
+    <file url="file://$PROJECT_DIR$/src/utils/vcl3datlantis/dataloaders/misc/valid_samples_dr_dataset_train.pkl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/utils/vcl3datlantis/dataloaders/misc/valid_samples_dr_dataset_train.pkl" charset="GBK" />
+  </component>
+</project>

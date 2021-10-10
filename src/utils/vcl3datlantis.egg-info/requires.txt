@@ -1,0 +1,16 @@
+numpy
+opencv-python
+scikit-image==0.16.2
+pillow
+pyyaml
+pycocotools
+timm==0.1.20
+efficientnet_pytorch
+pretrainedmodels
+visdom
+pytorch-lightning
+imageio
+unique_color
+albumentations==0.5.2
+json2html
+Shapely

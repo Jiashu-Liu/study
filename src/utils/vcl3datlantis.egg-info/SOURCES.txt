@@ -1,0 +1,8 @@
+README.md
+setup.py
+vcl3datlantis/__init__.py
+vcl3datlantis.egg-info/PKG-INFO
+vcl3datlantis.egg-info/SOURCES.txt
+vcl3datlantis.egg-info/dependency_links.txt
+vcl3datlantis.egg-info/requires.txt
+vcl3datlantis.egg-info/top_level.txt
